@@ -3,4 +3,5 @@ This project deals with the automation of the CAN bus Tx and Rx id's. In additio
 Framework--> PyQt5
 Languages--> Python,CAPL,Embedded C
 Modules----> xlrd,pyqt5 libraries,Os,Sys,win32com.client
-Tools------> Vector CANoe, Labcar, VSCode,QT Designer
+Tools------> Vector CANoe, Labcar, VSCode,QT Designer,Hadoop
+
